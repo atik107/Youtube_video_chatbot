@@ -1,4 +1,4 @@
-# 🎥 YouTube Video Chatbot
+# 🎥 Chatbot for Youtube Video
 
 A chatbot application that enables users to ask questions about YouTube videos using natural language. The system fetches video transcripts, indexes them using FAISS vector search, and provides intelligent responses using LLMs (Large Language Models).
 
