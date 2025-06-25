@@ -20,7 +20,7 @@ A chatbot application that enables users to ask questions about YouTube videos u
 - **YouTube Transcript API**
 - **LangChain** (`langchain-community`, `langchain-openai`)
 - **FAISS** (Facebook AI Similarity Search)
-- **OpenAI / Groq API**
+- **Groq API**
 - **Tiktoken**, **dotenv**
 
 ---
