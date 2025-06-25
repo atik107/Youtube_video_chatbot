@@ -27,8 +27,4 @@ A chatbot application that enables users to ask questions about YouTube videos u
 
 ## 📦 Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/youtube-video-chatbot.git
-cd youtube-video-chatbot
+will be updated after completing full projects
